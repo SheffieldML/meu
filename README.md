@@ -15,6 +15,6 @@ This release is for the arxiv paper.
 ## Examples
 
 
-``matlab
+```matlab
 >> dem...
-``
+```
